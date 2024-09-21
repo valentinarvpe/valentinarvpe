@@ -1,8 +1,14 @@
 ## Hi there, I'm Valentina Rivera 👋
 - 🔭 I’m currently working as a fullstack software programmer
-- 🧡 Love learning new technologies
 
   
+## ⚡ Technologies
+
+[![My Skills](https://skillicons.dev/icons?i=java,spring,vue,nuxtjs,py,js,nodejs,mysql,postgres,docker,gradle,maven)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,linux,postman,idea)](https://skillicons.dev)
+
+
 <!--
 **valentinarvpe/valentinarvpe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
